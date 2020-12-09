@@ -1,119 +1,98 @@
 {
 	"exercises": [{
 		"id": 0,
+		"image": "https://media1.popsugar-assets.com/files/thumbor/zQoOt0Fvr_zjLJy9SmueJGPT83s/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2012/11/45/4/192/1922729/c0e274b668d18c95_Seated-Ball-Twist.jpeg",
 		"name": "Oblique twist",
 		"video": "https://vimeo.com/178079508"
 	}, {
 		"id": 1,
+		"image": "https://cdn2.coachmag.co.uk/sites/coachmag/files/2017/05/bench-press_0.jpg",
 		"name": "Benchpress",
 		"video": "https://vimeo.com/178057019"
 	}, {
 		"id": 2,
+		"image": "https://www.mensjournal.com/wp-content/uploads/mf/rookie-mistake-deadlift_0.jpg?w=1200&h=675&crop=1&quality=86&strip=all",
 		"name": "Deadlift",
 		"video": "https://vimeo.com/178056325"
 	}, {
 		"id": 3,
+		"image": "https://experiencelife.com/wp-content/uploads/2017/03/Squat-1280x720.jpg",
 		"name": "Squat",
 		"video": "https://vimeo.com/178056008"
 	}, {
 		"id": 4,
+		"image": "https://global-uploads.webflow.com/5d1d0d3f53ced35a29dbe169/5de7af65f9c49c167ab40349_mike-rosa-tricep-pushdown.jpeg",
 		"name": "Tricep pulldown",
 		"video": "https://vimeo.com/178054967"
 	}, {
 		"id": 5,
+		"image": "",
 		"name": "Pulley crunch",
 		"video": "https://vimeo.com/178052126"
 	}, {
 		"id": 6,
+		"image": "https://fitandelegant.com/wp-content/uploads/2019/06/Cable-Crunch-Ultimate-Guide.jpg",
 		"name": "Floor crunch",
 		"video": "https://vimeo.com/178050912"
 	}, {
 		"id": 7,
+		"image": "https://gethealthyu.com/wp-content/uploads/2014/12/Tricep-Overhead-Extension_Exercise.jpg",
 		"name": "Overhead tricep extension",
 		"video": "https://vimeo.com/178050262"
 	}, {
 		"id": 8,
+		"image": "https://cdn1.coachmag.co.uk/sites/coachmag/files/styles/insert_main_wide_image/public/2017/11/dumbbell-incline-bench-press.jpg?itok=mS7AWIY0",
 		"name": "Dumbbell press",
 		"video": "https://vimeo.com/178048727"
 	}, {
 		"id": 9,
+		"image": "https://fitnessvolt.com/wp-content/uploads/2018/05/Behind-the-back-barbell-wrist-curl.png",
 		"name": "Forearm curl back (15 reps)",
 		"video": "https://vimeo.com/178047269"
 	}, {
 		"id": 10,
+		"image": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/384/Male/l/384_1.jpg",
 		"name": "Forearm curl in (15 reps)",
 		"video": "https://vimeo.com/178047269"
 	}, {
 		"id": 11,
+		"image": "https://www.burnthefatinnercircle.com/members/images/1664b.jpg?cb=20191017074717",
 		"name": "Seated pulley row",
 		"video": "https://vimeo.com/178042607"
 	}, {
 		"id": 12,
+		"image": "https://s3.amazonaws.com/prod.skimble/assets/1268657/image_iphone.jpg",
 		"name": "Shrug",
 		"video": "https://vimeo.com/177971664"
 	}, {
 		"id": 13,
+		"image": "https://cdn.prod.openfit.com/uploads/2020/04/08180102/calf-raises-graphic.jpg",
 		"name": "Calf raise",
 		"video": "https://vimeo.com/177971348"
 	}, {
 		"id": 14,
+		"image": "https://media1.popsugar-assets.com/files/thumbor/ZQschItUr6WhuObWR0uvhEh84KI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/10/28/623/n/1922729/4739551558135986329f00.58650634_c3358a7f_deadlift-main/i/Romanian-Deadlifts.jpg",
 		"name": "Dumbbell romanian deadlift",
 		"video": "https://vimeo.com/177971032"
 	}, {
 		"id": 15,
+		"image": "https://i.pinimg.com/600x315/26/ca/60/26ca60430ae1a9c4f55394b3ed814ea5.jpg",
 		"name": "Forearm curl up (25 reps)",
 		"video": "https://vimeo.com/177970644"
 	}, {
 		"id": 16,
+		"image": "https://media1.popsugar-assets.com/files/thumbor/cUQPd1xqwRqOm2oAN22Fy8Ils4g/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2013/10/18/880/n/1922729/b452bf10eaa97514_squat-with-weights/i/Dumbbell-Squat.jpg",
 		"name": "Dumbbell squat",
 		"video": "https://vimeo.com/177970342"
 	}, {
 		"id": 17,
+		"image": "https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Shoulder-Front-Raise_Exercise.jpg",
 		"name": "Front raise",
 		"video": "https://vimeo.com/177969758"
 	}, {
 		"id": 18,
+		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/701/tricepjullian-1505485442.jpg",
 		"name": "Julian tricep extension",
 		"video": "https://vimeo.com/177969524"
-	}, {
-		"id": 19,
-		"name": "Bicep curl",
-		"video": "https://vimeo.com/177968823"
-	}, {
-		"id": 20,
-		"name": "Dumbbell incline press",
-		"video": "https://vimeo.com/177967959"
-	}, {
-		"id": 21,
-		"name": "Hammer pulley curls 2h",
-		"video": "https://vimeo.com/"
-	}, {
-		"id": 22,
-		"name": "Side raise",
-		"video": "https://vimeo.com/177961354"
-	}, {
-		"id": 23,
-		"name": "Hand grippers",
-		"video": "https://vimeo.com/177766222"
-	}, {
-		"id": 24,
-		"name": "Dumbbell shoulder press",
-		"video": "https://www.vimeo.com/151248907"
-	}, {
-		"id": 25,
-		"name": "Overhead press",
-		"video": "https://vimeo.com/96081016"
-	}, {
-		"id": 26,
-		"name": "Hamstring curl",
-		"video": "https://vimeo.com/164443477"
-	}, {
-		"id": 27,
-		"name": "Lat pulldown",
-		"video": "https://vimeo.com/164080300"
-	}, {
-		"id": 28,
-		"name": "Hanging leg raise",
-		"video": "https://vimeo.com/39560703"
 	}],
 }
