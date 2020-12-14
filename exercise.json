@@ -3,96 +3,96 @@
 		"id": 0,
 		"image": "https://media1.popsugar-assets.com/files/thumbor/zQoOt0Fvr_zjLJy9SmueJGPT83s/fit-in/550x550/filters:format_auto-!!-:strip_icc-!!-/2012/11/45/4/192/1922729/c0e274b668d18c95_Seated-Ball-Twist.jpeg",
 		"name": "Oblique twist",
-		"video": "https://vimeo.com/178079508"
+		"video": "Lean on the floor, then hold dumbell then twist the body"
 	}, {
 		"id": 1,
 		"image": "https://cdn2.coachmag.co.uk/sites/coachmag/files/2017/05/bench-press_0.jpg",
 		"name": "Benchpress",
-		"video": "https://vimeo.com/178057019"
+		"video": "Sleep on bench, use the dumbell to press "
 	}, {
 		"id": 2,
 		"image": "https://www.mensjournal.com/wp-content/uploads/mf/rookie-mistake-deadlift_0.jpg?w=1200&h=675&crop=1&quality=86&strip=all",
 		"name": "Deadlift",
-		"video": "https://vimeo.com/178056325"
+		"video": "Use the barbell to lift it"
 	}, {
 		"id": 3,
 		"image": "https://experiencelife.com/wp-content/uploads/2017/03/Squat-1280x720.jpg",
 		"name": "Squat",
-		"video": "https://vimeo.com/178056008"
+		"video": "Normal squat"
 	}, {
 		"id": 4,
 		"image": "https://global-uploads.webflow.com/5d1d0d3f53ced35a29dbe169/5de7af65f9c49c167ab40349_mike-rosa-tricep-pushdown.jpeg",
 		"name": "Tricep pulldown",
-		"video": "https://vimeo.com/178054967"
+		"video": "Pull down heavy cable to pull the triceps"
 	}, {
 		"id": 5,
 		"image": "",
 		"name": "Pulley crunch",
-		"video": "https://vimeo.com/178052126"
+		"video": "Pull the pulley until it reach knee"
 	}, {
 		"id": 6,
 		"image": "https://fitandelegant.com/wp-content/uploads/2019/06/Cable-Crunch-Ultimate-Guide.jpg",
 		"name": "Floor crunch",
-		"video": "https://vimeo.com/178050912"
+		"video": "Lean on floor and do half sit ups"
 	}, {
 		"id": 7,
 		"image": "https://gethealthyu.com/wp-content/uploads/2014/12/Tricep-Overhead-Extension_Exercise.jpg",
 		"name": "Overhead tricep extension",
-		"video": "https://vimeo.com/178050262"
+		"video": "Pull the cable from the back of head"
 	}, {
 		"id": 8,
 		"image": "https://cdn1.coachmag.co.uk/sites/coachmag/files/styles/insert_main_wide_image/public/2017/11/dumbbell-incline-bench-press.jpg?itok=mS7AWIY0",
 		"name": "Dumbbell press",
-		"video": "https://vimeo.com/178048727"
+		"video": "Like normal press, but use dumbell"
 	}, {
 		"id": 9,
 		"image": "https://fitnessvolt.com/wp-content/uploads/2018/05/Behind-the-back-barbell-wrist-curl.png",
 		"name": "Forearm curl back (15 reps)",
-		"video": "https://vimeo.com/178047269"
+		"video": "Curl back using dumbell"
 	}, {
 		"id": 10,
 		"image": "https://www.bodybuilding.com/exercises/exerciseImages/sequences/384/Male/l/384_1.jpg",
 		"name": "Forearm curl in (15 reps)",
-		"video": "https://vimeo.com/178047269"
+		"video": "Curl using dumbell focused on forearm"
 	}, {
 		"id": 11,
 		"image": "https://www.burnthefatinnercircle.com/members/images/1664b.jpg?cb=20191017074717",
 		"name": "Seated pulley row",
-		"video": "https://vimeo.com/178042607"
+		"video": "Pull the row while seated"
 	}, {
 		"id": 12,
 		"image": "https://s3.amazonaws.com/prod.skimble/assets/1268657/image_iphone.jpg",
 		"name": "Shrug",
-		"video": "https://vimeo.com/177971664"
+		"video": "Do shrug while holding dumbels"
 	}, {
 		"id": 13,
 		"image": "https://cdn.prod.openfit.com/uploads/2020/04/08180102/calf-raises-graphic.jpg",
 		"name": "Calf raise",
-		"video": "https://vimeo.com/177971348"
+		"video": "Raise the calf and repeat"
 	}, {
 		"id": 14,
 		"image": "https://media1.popsugar-assets.com/files/thumbor/ZQschItUr6WhuObWR0uvhEh84KI/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2016/10/28/623/n/1922729/4739551558135986329f00.58650634_c3358a7f_deadlift-main/i/Romanian-Deadlifts.jpg",
 		"name": "Dumbbell romanian deadlift",
-		"video": "https://vimeo.com/177971032"
+		"video": "Like a normat deadlift"
 	}, {
 		"id": 15,
 		"image": "https://i.pinimg.com/600x315/26/ca/60/26ca60430ae1a9c4f55394b3ed814ea5.jpg",
 		"name": "Forearm curl up (25 reps)",
-		"video": "https://vimeo.com/177970644"
+		"video": "Curl the arm to normal curl"
 	}, {
 		"id": 16,
 		"image": "https://media1.popsugar-assets.com/files/thumbor/cUQPd1xqwRqOm2oAN22Fy8Ils4g/fit-in/2048xorig/filters:format_auto-!!-:strip_icc-!!-/2013/10/18/880/n/1922729/b452bf10eaa97514_squat-with-weights/i/Dumbbell-Squat.jpg",
 		"name": "Dumbbell squat",
-		"video": "https://vimeo.com/177970342"
+		"video": "Hold dumbell while doing squat"
 	}, {
 		"id": 17,
 		"image": "https://3i133rqau023qjc1k3txdvr1-wpengine.netdna-ssl.com/wp-content/uploads/2014/08/Shoulder-Front-Raise_Exercise.jpg",
 		"name": "Front raise",
-		"video": "https://vimeo.com/177969758"
+		"video": "Raise the leg multiple times"
 	}, {
 		"id": 18,
 		"image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/701/tricepjullian-1505485442.jpg",
 		"name": "Julian tricep extension",
-		"video": "https://vimeo.com/177969524"
+		"video": "Similar to other tricep extension"
 	}],
 }
